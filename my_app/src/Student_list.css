@@ -1,0 +1,15 @@
+ul{
+    border:1px solid white;
+    width:80%;
+    height:auto;
+    display:flex;
+    justify-content: space-between;
+    padding:1rem 3rem;
+    align-items:center;
+    margin:2rem auto;
+    border-radius: 10px; 
+}
+li{
+    list-style: none;
+     color:azure
+};

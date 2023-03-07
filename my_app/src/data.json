@@ -1,0 +1,134 @@
+[
+    {
+"student_name":"yash",
+"Email":"yashgupta1997f@gmail.com",
+"Phone":"8602417315",
+"Marks":"69",
+"Result":"pass"
+},
+{
+"student_name":"Prashant",
+"Email":"prashant1993f@gmail.com",
+ "Phone":"7827267237",
+ "Marks":"45",
+ "Result":"pass"
+}, {
+"student_name":"Rupali",
+"Email":"RupaliHinduja@gmail.com",
+ "Phone":"6543967621",
+ "Marks":"89",
+ "Result":"pass"
+}, {
+"student_name":"Aman",
+"Email":"amanf@gmail.com",
+ "Phone":"6823823782",
+ "Marks":"29",
+ "Result":"fail"
+}, {
+"student_name":"Rishi",
+"Email":"Rishiseldon@gmail.com",
+ "Phone":"9862332242",
+ "Marks":"45",
+ "Result":"pass"
+},
+{
+"student_name":"Sonam",
+"Email":"sonamtrivedi@gmail.com",
+ "Phone":"9862332242",
+ "Marks":"65",
+ "Result":"pass"
+},
+{
+"student_name":"Saurav",
+"Email":"saurav@gmail.com",
+ "Phone":"9862332242",
+ "Marks":"32",
+ "Result":"fail"
+},
+{
+    "student_name":"amit",
+    "Email":"amit@gmail.com",
+     "Phone":"2356672242",
+     "Marks":"56",
+     "Result":"pass"
+    },
+    {
+        "student_name":"asif",
+        "Email":"asif@gmail.com",
+         "Phone":"9873584843",
+         "Marks":"65",
+         "Result":"pass"
+        },{
+            "student_name":"Himanshi",
+            "Email":"Himanshi@gmail.com",
+             "Phone":"9862332242",
+             "Marks":"32",
+             "Result":"fail"
+            },
+            {
+                "student_name":"yash",
+                "Email":"yashgupta1997f@gmail.com",
+                "Phone":"8602417315",
+                "Marks":"69",
+                "Result":"pass"
+                },
+                {
+                "student_name":"Prashant",
+                "Email":"prashant1993f@gmail.com",
+                 "Phone":"7827267237",
+                 "Marks":"45",
+                 "Result":"pass"
+                }, {
+                "student_name":"Rupali",
+                "Email":"RupaliHinduja@gmail.com",
+                 "Phone":"6543967621",
+                 "Marks":"89",
+                 "Result":"pass"
+                }, {
+                "student_name":"Aman",
+                "Email":"amanf@gmail.com",
+                 "Phone":"6823823782",
+                 "Marks":"29",
+                 "Result":"fail"
+                }, {
+                "student_name":"Rishi",
+                "Email":"Rishiseldon@gmail.com",
+                 "Phone":"9862332242",
+                 "Marks":"45",
+                 "Result":"pass"
+                },
+                {
+                "student_name":"Sonam",
+                "Email":"sonamtrivedi@gmail.com",
+                 "Phone":"9862332242",
+                 "Marks":"65",
+                 "Result":"pass"
+                },
+                {
+                "student_name":"Saurav",
+                "Email":"saurav@gmail.com",
+                 "Phone":"9862332242",
+                 "Marks":"32",
+                 "Result":"fail"
+                },
+                {
+                    "student_name":"amit",
+                    "Email":"amit@gmail.com",
+                     "Phone":"2356672242",
+                     "Marks":"56",
+                     "Result":"pass"
+                    },
+                    {
+                        "student_name":"asif",
+                        "Email":"asif@gmail.com",
+                         "Phone":"9873584843",
+                         "Marks":"65",
+                         "Result":"pass"
+                        },{
+                            "student_name":"Himanshi",
+                            "Email":"Himanshi@gmail.com",
+                             "Phone":"9862332242",
+                             "Marks":"32",
+                             "Result":"fail"
+                            }
+]

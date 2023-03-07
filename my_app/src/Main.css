@@ -1,0 +1,21 @@
+nav{
+    width: 24vw;
+    margin:auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:1.2rem 0rem;
+}
+.active{
+     color:rgb(141, 226, 226);
+     text-decoration: none;
+     transition: .2s;
+}
+.active:hover{
+   color:white;
+   text-decoration: underline;
+}
+.unactive{
+    color:white;
+    text-decoration: none;
+}
